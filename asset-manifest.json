@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/neosilver/static/css/main.dc4d6ff2.css",
+    "main.js": "/neosilver/static/js/main.25d430b9.js",
+    "static/js/453.d6ba3d9e.chunk.js": "/neosilver/static/js/453.d6ba3d9e.chunk.js",
+    "index.html": "/neosilver/index.html",
+    "main.dc4d6ff2.css.map": "/neosilver/static/css/main.dc4d6ff2.css.map",
+    "main.25d430b9.js.map": "/neosilver/static/js/main.25d430b9.js.map",
+    "453.d6ba3d9e.chunk.js.map": "/neosilver/static/js/453.d6ba3d9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.25d430b9.js"
+  ]
+}
